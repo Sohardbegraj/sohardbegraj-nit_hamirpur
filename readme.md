@@ -293,6 +293,7 @@ bill-extraction-datathon/
 ## 👥 Team
 
 - **Name**: [Sohard Begraj]
+             [Arayn Nandal]
 - **College**: [National Institute Of Technology Hamirpur]
 - **Email**: [Sohard16begraj@gmail.com]
 
